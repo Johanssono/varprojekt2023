@@ -15,3 +15,5 @@ Tisdag: Vi kom fra m till att vi inte villa ha sociala medier på våran hemsida
 
 ###Vecka 11
 Måndag: Jag har nu skapat en wireframe på datorn för både förstasidan och artikelsidan, jag har öven börjat att arbeta med loggan i inkscape och ska fortsätta nästa gång.
+
+Tisdag: Vi hade ingen lektion idag så inget arbete var utfört.
