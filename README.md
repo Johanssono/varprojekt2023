@@ -24,6 +24,6 @@ Måndag: Jag fortsatte jobba och finslupa med loggan och hjälpt Viktor med att 
 Tisdag: Jag fortsatte jobba och finslupa med loggan och hjälpt Viktor med att skapa Home-pagen för vår hemsida, samt försökt jaga runt Alex för att få han att göra lite arbete.
 
 ### Vecka 13 
-Måndag: Jag har jobbat med loggan och är 99% klar, vi har haft lite problem med att göra våran Home-page, men jag och Viktor har fixat och donat. Vi har även letat efter Alex som försvan mitt i lektionen.
+Måndag: Jag har jobbat med loggan och är 99% klar, vi har haft lite problem med att göra våran Home-page, men jag och Viktor har fixat och donat.
 
 Tisdag: Det var bara Jag och Viktor på lektionen så jag gjorde förhopningsvis det sista på loggan och försökte då och då hjälpa Viktor med våran home-page.
