@@ -27,3 +27,6 @@ Tisdag: Jag fortsatte jobba och finslupa med loggan och hjälpt Viktor med att s
 Måndag: Jag har jobbat med loggan och är 99% klar, vi har haft lite problem med att göra våran Home-page, men jag och Viktor har fixat och donat.
 
 Tisdag: Det var bara Jag och Viktor på lektionen så jag gjorde förhopningsvis det sista på loggan och försökte då och då hjälpa Viktor med våran home-page.
+
+### Vecka 14
+Måndag: Jag har Jobbat hela lektionen med att försöka animera loggan. Men animeringen fungerar inte och jag kunde inte hitta en lösning på det, jag gick sedan till Kenneth efter lektionen och länkade på hans order en codpen av loggan och coden. Jag väntar nu på svar.
