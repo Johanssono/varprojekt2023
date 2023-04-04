@@ -31,4 +31,4 @@ Tisdag: Det var bara Jag och Viktor på lektionen så jag gjorde förhopningsvis
 ### Vecka 14
 Måndag: Jag har Jobbat hela lektionen med att försöka animera loggan. Men animeringen fungerar inte och jag kunde inte hitta en lösning på det, jag gick sedan till Kenneth efter lektionen och länkade på hans order en codpen av loggan och coden. Jag väntar nu på svar.
 
-Tisdag: Jag jobbade tillsamans med Viktor på våran "home page", men caroline kom och tog mig från lektionen vilket okuperade 99% av min lektion. Jag kunde därför inte jobba mycket med webben.
+Tisdag: Jag jobbade tillsamans med Viktor på våran "home page", men caroline kom och tog mig från lektionen vilket okuperade 99% av min lektion. Jag kunde därför inte jobba mycket med vårprojektet.
