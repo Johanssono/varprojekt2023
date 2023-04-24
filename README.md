@@ -38,3 +38,5 @@ Måndag: Idag att jag och fixade en comment section på våran Home-page.
 
 ### Helg vecka 16
 Lördag: Jag satt och modifierade karousellen på våran Home-page för att den skulle funger med cards istället för bilder, jag blev inte klar men det är inte mycket kvar. Jag lade sedan till en page-nav på sidan och fixade layouten på sidan. Nästa gång ska jag ficka mer på karousellen, en review funktion eller komentar system och en settings knapp där man ska kunna ändra storleken på texten och byta mellan light och dark mode, något av detta kanske jag dirigerar till Viktor.
+### Vecka 17
+Måndag: Jag har försökt modifiera karousellen och navbarer för att passa sidan mer. Jag gav viktor uppgiften att ta hand om menyn och meny-innehållet. Nästa gång ska jag fortsätta med karousellen och sedan fixa en review section och sources.
