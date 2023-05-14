@@ -41,13 +41,14 @@ Lördag: Jag satt och modifierade karousellen på våran Home-page för att den 
 ### Vecka 17
 Måndag: Jag har försökt modifiera karousellen och navbarer för att passa sidan mer. Jag gav viktor uppgiften att ta hand om menyn och meny-innehållet. Nästa gång ska jag fortsätta med karousellen och sedan fixa en review section och sources.
 
-### Vecka 18
 Fredag: Vi strök iden med en reweiv sektion, istället beslutade bi med att lämna en mail som läsarna kan använda till att ge feedback eller annat. Jag jobbade över helgen med att göra en dark-mode knapp vilket tog lång tid då jag inte riktigt förstår Javascript. Sedan flyttade jag den knappen till menyn, men jag måste ändra lite på färgerna innan den är klar. Jag jobbar dock nu på att göra om låggan och kompremera den, samt att lägga in den i navbaren på våran hemsida.
 
 Lördag: Jag har fixat med dark mode knappen för att alting ska byta färg. Jag har även obbar lite med loggan och lagt in den, färgerna kan dock behöva bytas. Nästa gång kanske jag gör en liten animerin när man hovrar över loggan, men måste fixa så att h6 sitter i mitten, för den är inte riktigt center.
 
+### Vecka 18
+Tisdag: Vi jobbade med att lägga ut sidan men komplicationer uppstod och vi var tvungna att lägga ut sidan hemma.
 
-Måndag: Vi jobbade med att lägga ut sidan men komplicationer uppstod och vi var tvungna att lägga ut sidan hemma.
+### Vecka 19
+Måndag: Jag jobbade med att läggatill källor på alla sidor, jag lyckades dock bara lägga in struktionen, men int alla länkar då jag inte har tillgång till länkarna.
 
-Tisdag: Jag jobbade med att läggatill källor på alla sidor, jag lyckades dock bara lägga in struktionen, men int alla länkar då jag inte har tillgång till länkarna.
-
+Lördag: Jag har jobbat med att fixa så att karousellen funkar till olika skärminstälningar då den tidigare bara fungerade till 125%.
