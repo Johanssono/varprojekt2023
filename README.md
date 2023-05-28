@@ -69,3 +69,5 @@ Så som det står nu har jag gjort allting på main-sidan förutom sökbaren och
 Lördag: Nu har jag kollat alla sidor och fixat dem enlig w3c standard och gjort speed testing och ändrat enligt dem, detta tog hela lördagen att fixa.
 
 Söndag: jag behövde fixa w3c standarden 2 gånger till idag då alex ändrade tillbaka för att fixa dokumentet enligt prettier extensionen som han har. Joel och Simon hjälpte mig även med att lägga upp sidan så jag kan testa den igen på w3c och speed testing genom att jag zipade sidan till dem och dem la uppden i en sub-folder. Efter det har jag fortsatt jobba med sidorna för att förbättra testingen genom att ändra bilderna från jpg till webp och annat. detta tog nästan hela dagen då artikelsidorna gjorde sämre än sämst på alla tester uttom. Seedan la jag upp dem en gång till för att kolla om jag har fixa det till en aceptabel nivå, men det är något problem med sidan jag använder för att testa så det tar nog lite längre tid.
+
+### Kan man även göra en muntlig presentation av vad man har gjort ifall att delar av loggboken är otillräcklig med information?
