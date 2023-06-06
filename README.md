@@ -66,8 +66,13 @@ Fredag: Idag ska vi presentera våra sidor och min grupp lyckades inte planera k
 
 Så som det står nu har jag gjort allting på main-sidan förutom sökbaren och stylen på page-naven och javascripten till dark-mode knappen som Alex sedan ändrade. Jag har även gjort allting på about-sidan bortsätt från informationen om Viktor och Alex och deras bilder.
 
-Lördag: Nu har jag kollat alla sidor och fixat dem enlig w3c standard och gjort speed testing och ändrat enligt dem, detta tog hela lördagen att fixa.
+Lördag: Nu har jag kollat alla sidor och fixat dem enlig w3c standard och gjort speed testing och ändrat enligt dem, detta tog hela lördagen att fixa. Jag satt sedan och fixade med ett google formulär som vi skulle använda som användartester och bar människor att gå in och fylla ut det.
 
 Söndag: jag behövde fixa w3c standarden 2 gånger till idag då alex ändrade tillbaka för att fixa dokumentet enligt prettier extensionen som han har. Joel och Simon hjälpte mig även med att lägga upp sidan så jag kan testa den igen på w3c och speed testing genom att jag zipade sidan till dem och dem la uppden i en sub-folder. Efter det har jag fortsatt jobba med sidorna för att förbättra testingen genom att ändra bilderna från jpg till webp och annat. detta tog nästan hela dagen då artikelsidorna gjorde sämre än sämst på alla tester uttom. Seedan la jag upp dem en gång till för att kolla om jag har fixa det till en aceptabel nivå, men det är något problem med sidan jag använder för att testa så det tar nog lite längre tid. Jag satt även och bytte ut svg taggen för loggan till en imag tagg för att det inte går att ha flera av samma ID. Jag bytte istället ut loggan mot två img taggar som bara byter mellan display none och display block med dark-mode knappen och fixade storleken på länken kopplad till loggan.
 
 ### Kan man även göra en muntlig presentation av vad man har gjort ifall att delar av loggboken är otillräcklig med information?
+
+### Vecka 22
+Måndag: Jag har börjat med dokumentationen och har lagt in utvecklingen av loggan och main-sidan. Jag lade även till wierframes före och efter för att visa utvecklingen hoss sidorna som ändrades under projektets gång. Sedan skapade jag och la även in wierframes för hemsidan på mobil. Efter det la jag även till utvecklingen av vårat färgchema, samt moodboard. Jag skrev även all text som är rellevan till allt som jag la in idag.
+
+Tisdag: idag la jag även in bilder, bilder på kod och skrev text till dark-mode knappen och korten. Sedan la jag in alla speed teste som vi har gjort på sidan, både till mobil och dator. Vi lyckades få bra resultat på alla sidor utom main-sidan där speed indexen blev lite hög på mobil. Vi saknar fortfarande speedtester på 404 not found sidan. Sedan la jag in resultaten på våra användartester, det verkar dock som om att några av mina kompisar hittade google formuläret och har gett lite oseriösa svar.
