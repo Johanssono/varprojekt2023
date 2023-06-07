@@ -76,3 +76,6 @@ Söndag: jag behövde fixa w3c standarden 2 gånger till idag då alex ändrade 
 Måndag: Jag har börjat med dokumentationen och har lagt in utvecklingen av loggan och main-sidan. Jag lade även till wierframes före och efter för att visa utvecklingen hoss sidorna som ändrades under projektets gång. Sedan skapade jag och la även in wierframes för hemsidan på mobil. Efter det la jag även till utvecklingen av vårat färgchema, samt moodboard. Jag skrev även all text som är rellevan till allt som jag la in idag.
 
 Tisdag: idag la jag även in bilder, bilder på kod och skrev text till dark-mode knappen och korten. Sedan la jag in alla speed teste som vi har gjort på sidan, både till mobil och dator. Vi lyckades få bra resultat på alla sidor utom main-sidan där speed indexen blev lite hög på mobil. Vi saknar fortfarande speedtester på 404 not found sidan. Sedan la jag in resultaten på våra användartester, det verkar dock som om att några av mina kompisar hittade google formuläret och har gett lite oseriösa svar.
+
+### Vecka 23
+Onsdag: jag fixade lite till med sidorna, la in analysverktyg på alla sidor och fixade sedan notfound-sidan, sedan lämnade vi in uppgiften.
